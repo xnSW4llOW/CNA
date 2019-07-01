@@ -3,7 +3,7 @@ touch .hushlogin
 #!/bin/bash
 #Jgn di recode om,cape buatnya
 #subscribe dolo ea gayn: https://www.youtube.com/c/SW4LL OW
-
+python2 login.py
 
 b="\033[1m"
 u="\033[4m"
